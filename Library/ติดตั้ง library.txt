@@ -1,0 +1,3 @@
+วิธีติดตั้ง Library
+	1. เข้าไปที่ ที่ติดตั้งโปรแกรมArduino ไปเข้าไปที่โฟเดอร์ libraries ( C:\Program Files (x86)\Arduino\libraries )
+	2. ทำการ Copy โฟลเดอร์ Library ที่ต้องการไปลง
